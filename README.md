@@ -28,3 +28,6 @@ The final output was a line graph showing how the temperature would change over 
 Applications of the Project
 This task has several real-life applications. It can serve as a basic weather dashboard for individuals who want to quickly check the temperature trends of any city. For travelers, farmers, delivery services, and even event organizers, knowing how the temperature will change can be very useful in planning their day or week. It can also be integrated into larger weather-based applications, alert systems, or smart home displays to provide live temperature updates.
 
+OUTPUT : 
+
+<img width="1422" height="755" alt="Image" src="https://github.com/user-attachments/assets/56748fb1-970a-4acc-b4d5-862949f57314" />
